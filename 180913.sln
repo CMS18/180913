@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualDemo", "EqualDemo\Equa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingLists", "UsingLists\UsingLists.csproj", "{28AD34C3-F54C-4C5C-AED1-2910506C340E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringList", "StringList\StringList.csproj", "{680960F3-42F7-4103-A99C-2A8BC77BCB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountAndDictionary", "BankAccountAndDictionary\BankAccountAndDictionary.csproj", "{93A005F6-1920-4CEC-989F-8AA97B8757AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{28AD34C3-F54C-4C5C-AED1-2910506C340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28AD34C3-F54C-4C5C-AED1-2910506C340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28AD34C3-F54C-4C5C-AED1-2910506C340E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680960F3-42F7-4103-A99C-2A8BC77BCB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680960F3-42F7-4103-A99C-2A8BC77BCB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680960F3-42F7-4103-A99C-2A8BC77BCB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680960F3-42F7-4103-A99C-2A8BC77BCB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A005F6-1920-4CEC-989F-8AA97B8757AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A005F6-1920-4CEC-989F-8AA97B8757AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A005F6-1920-4CEC-989F-8AA97B8757AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A005F6-1920-4CEC-989F-8AA97B8757AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
